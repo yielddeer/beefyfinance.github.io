@@ -19,7 +19,7 @@ body {
 @media only screen and (min-width: 1400px) { html { font-size: 16px; } }
 
 body {
-  background-color: #F9F3EB;
+  background-color: #f1f7ff;
 }
 
 * {
@@ -81,7 +81,7 @@ body {
 
 .nav-btn {
   padding: .5rem 1.5rem;
-  background: #5A8F69;
+  background: ##f3bb2b;
   color: #fff;
   border-radius: 2rem;
   font-weight: 700;
