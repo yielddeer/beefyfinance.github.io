@@ -242,15 +242,15 @@ body {
   position: absolute;
   width: 5rem;
 }
-
+ .plains {
+    display: block;
+   }
 @media only screen and (min-width: 769px) {
   .hero {
     margin: -4rem auto 0;
   }
 
-  .plains {
-    display: block;
-  }
+
 }
 
 .alert {
