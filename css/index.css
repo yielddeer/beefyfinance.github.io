@@ -291,6 +291,7 @@ h1 {
     min-height: 219px;
     vertical-align: top;
     margin: 20px;
+  text-align:center;
 }
 .ball {
     position: absolute;
