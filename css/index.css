@@ -281,10 +281,22 @@ h1 {
     color: #f3bb2b;
 }
 .box {
-    background: #fff;
+  background: #fff;
     padding: 20px;
     border-radius: 10px;
     border: 2px solid #ddd;
-    max-width: 400px;
+    max-width: 525px;
     display: inline-block;
+    width: 100%;
+    min-height: 219px;
+    vertical-align: top;
+    margin: 20px;
+}
+.ball {
+    position: absolute;
+    bottom: 0;
+    z-index: 1;
+    display: block;
+    right: 0;
+    left: 0;
 }
