@@ -20,7 +20,10 @@ body {
 
 body {
   background-color: #f3f3f3;
-  background-image:url(../img/control.png)
+    background-image: url(../img/control.png);
+    background-size: 172px;
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
 
 * {
